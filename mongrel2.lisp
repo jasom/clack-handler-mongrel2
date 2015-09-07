@@ -1,9 +1,7 @@
 #|
-  This file is a part of Clack package.
-  URL: http://github.com/fukamachi/clack
-  Copyright (c) 2011 Eitaro Fukamachi <e.arrows@gmail.com>
+  Copyright (c) 2015 Jason Miller
 
-  Clack is freely distributable under the LLGPL License.
+  Freely distributable under the LLGPL License.
 |#
 
 (in-package :cl-user)
